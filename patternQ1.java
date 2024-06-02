@@ -1,10 +1,10 @@
 import java.util.*;
 public class patternQ1 {
     public static void main(String args[]){
-        Scanner sc= new Scanner(System.in);
+        Scanner s1= new Scanner(System.in);
         int i,j;
-        i=sc.nextInt();
-        j=sc.nextInt();
+        i=s1.nextInt();
+        j=s1.nextInt();
 
 
         for (int x=1; x<=i ;x++){

@@ -1,0 +1,3 @@
+For loop
+for(initialisation; condition; updation )
+we use counter variable also called as an iterator (i)

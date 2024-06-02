@@ -1,0 +1,9 @@
+while(condition){
+    task
+    updation
+}
+do{
+    //do something
+}while(condition);
+
+In do while condition is checked later after doing work
